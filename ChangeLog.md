@@ -1,3 +1,13 @@
+# 2023-12-03.10
+Simple UI Diagram
+- Fixed #11: Indicated that 1H for ramp is reversible
+
+Advanced UI Diagram
+- Fixed #11: Indicated that 1H for ramp is reversible
+
+README
+- Fixed a typo
+
 # 2023-12-03.09
 Simple UI Diagram
 - Fixed #10: The clicks for Factory Reset and Version Check were swapped

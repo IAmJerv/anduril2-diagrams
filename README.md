@@ -10,7 +10,7 @@ User Interface diagrams for Andúril 2 - an advanced flashlight UI developed by 
 ## Download
 Check the [Releases](https://github.com/containerfan/anduril2-diagrams/releases) for the files in the following formats:
 - SVG - "Scalable Vector Graphics" files that are the source files that may be edited in apps like Inkscape or viewed in standard web browsers.
-- PNG - "Portable Network Graphic" files that may be viewed in most image viewers (similar to GIF and JPG files).
+- PNG - "Portable Network Graphics" files that may be viewed in most image viewers (similar to GIF and JPG files).
 - PDF - "Portable Document Format" files that may be viewed in Adobe Acrobat and other PDF readers/editors. These files are great for printing.
 - source (zip & tar.gz) - Compressed files that contain the SVG files.
 
