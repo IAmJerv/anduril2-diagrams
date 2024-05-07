@@ -1,3 +1,10 @@
+# 2024-04-20.01
+Simple UI Diagram
+- Fixed #12: Consistent use of "channel mode"
+
+Advanced UI Diagram
+- Incremented version - no material changes
+
 # 2023-12-03.10
 Simple UI Diagram
 - Fixed #11: Indicated that 1H for ramp is reversible
