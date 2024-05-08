@@ -1,3 +1,11 @@
+# 2024-04-20.02
+
+Simple UI Diagram
+- Added Batt Check resolution steps (0.02V)
+
+Advanced UI Diagram
+- Added Batt Check resolution steps (0.02V)
+
 # 2023-12-03.11
 Deleted the 2023-12-03.10 release in error.  This is intended to be the final diagram release for this Andúril 2 release unless errors are found.
 
