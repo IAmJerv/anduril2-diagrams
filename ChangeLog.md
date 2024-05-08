@@ -1,3 +1,12 @@
+# 2023-12-03.11
+Deleted the 2023-12-03.10 release in error.  This is intended to be the final diagram release for this Andúril 2 release unless errors are found.
+
+Simple UI Diagram
+- Added Batt Check resolution steps (0.025V)
+
+Advanced UI Diagram
+- Added Batt Check resolution steps (0.025V)
+
 # 2024-04-20.01
 Simple UI Diagram
 - Fixed #12: Consistent use of "channel mode"
